@@ -26,12 +26,10 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-```
-/*
 Program to print the text “Hello World”.
 Developed by:TAMILSELVI P
 Registeration Number :212225040460
-*/
+
 ## mainactivity.java:
 ```
 package com.example.test;
