@@ -87,7 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ```
-##activitymain.xml:
+## activitymain.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -114,22 +114,22 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## OUTPUT
-Activitymain.xml
+## Activitymain.xml
 <img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/25be1f3e-2ff7-45f0-8765-fef36ac927cf" />
 
-onCreate()
+## onCreate()
 <img width="1920" height="1005" alt="oncreate" src="https://github.com/user-attachments/assets/7fdc2c99-1c5e-4376-a89d-50c60b2d1e87" />
 
-onstart()
+## onstart()
 <img width="1627" height="871" alt="image" src="https://github.com/user-attachments/assets/a2483725-f495-4d48-ad94-a930ffe0ba3f" />
 
-onRestart()
+## onRestart()
 <img width="1630" height="862" alt="image" src="https://github.com/user-attachments/assets/15486b61-7d8b-4c72-a460-55ec16a81aa7" />
 
-onPause()
+## onPause()
 <img width="1626" height="857" alt="image" src="https://github.com/user-attachments/assets/0b9d128a-9b7a-4d15-a881-578a467eef2c" />
 
-onResume()
+## onResume()
 <img width="1627" height="872" alt="image" src="https://github.com/user-attachments/assets/7aac14ae-f770-4cf6-9d95-7bf65fab7738" />
 
 
